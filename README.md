@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Hi there, I'm Moumen
+# Hi there, I'm Moumen
 
 ### Software Engineer&nbsp; | &nbsp;AI Engineering Enthusiast
-
-<img src="[https://komarev.com/ghpvc/?username=Nedjar&color=blueviolet&style=flat](https://komarev.com/ghpvc/?username=Abdelmoumen&color=blueviolet&style=flat)" alt="Profile views" />
 
 </div>
 
@@ -16,14 +14,14 @@ I love turning ideas into systems that actually run in production. I get genuine
 
 <div align="center">
 
-### 🧠 What I'm into
+### What I'm into
 
 <img src="https://img.shields.io/badge/Backend_Engineering-1a1a2e?style=flat-square" />
 <img src="https://img.shields.io/badge/AI_%2F_LLM_Systems-1a1a2e?style=flat-square" />
 <img src="https://img.shields.io/badge/Distributed_Systems-1a1a2e?style=flat-square" />
 <img src="https://img.shields.io/badge/Mobile_Development-1a1a2e?style=flat-square" />
 
-### ⚙️ When I code, I rely on
+### When I code, I rely on
 
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -51,7 +49,7 @@ I love turning ideas into systems that actually run in production. I get genuine
 
 <div align="center">
 
-### 🔥 GitHub Activity
+### GitHub Activity
 
 <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" />
 
@@ -66,8 +64,12 @@ I love turning ideas into systems that actually run in production. I get genuine
 
 <div align="center">
 
-### 📫 Connect with me
+### Connect with me
 
-[LinkedIn](#) &nbsp;·&nbsp; [Email](#) &nbsp;·&nbsp; [Portfolio](#)
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /> </a>
+
+ 
+
+<a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /> </a>
 
 </div>
