@@ -4,7 +4,7 @@
 
 ### Software Engineer&nbsp; | &nbsp;AI Engineering Enthusiast
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat" alt="Profile views" />
+<img src="[https://komarev.com/ghpvc/?username=Nedjar&color=blueviolet&style=flat](https://komarev.com/ghpvc/?username=Abdelmoumen&color=blueviolet&style=flat)" alt="Profile views" />
 
 </div>
 
